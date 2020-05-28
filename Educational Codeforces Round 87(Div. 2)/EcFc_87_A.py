@@ -22,4 +22,4 @@ while(t>0):
             a[0] = a[0]-a[1]
             ts = (math.ceil(a[0]/df))*a[2]+a[1]
             print(int(ts))
-    t =t-1
+    t = t-1
